@@ -4,6 +4,8 @@ public class Dog extends Animal {
 
        p.printInfo("Dog",12);
 
+        System.out.println("Hi");
+
 
         System.out.println("name of the Animal is "+name + "age of the animal is "+age );
         makeSound();
