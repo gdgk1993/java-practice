@@ -1,6 +1,6 @@
 // Animal class
 class Animal {
-    public string Name;
+    public static String name;
     public int age;
 
 }
